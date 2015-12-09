@@ -1,28 +1,46 @@
-# A Digital Learning Hub
+# A digital learning hub
 
-## Summary
+## Background
+Founders & Coders CIC is a social enterprise dedicated to providing exceptional training in web development and assistance in finding work, without charging its students (the FAC Bootcamp). We believe that access to life-changing education should be free for all - and nowhere is this more true than in the digital sphere. 
 
-Our vision of a digital learning hub is a peer-led learning environment that combines the open access of a public library, the learning environment of a classroom and the vocational opportunities of a workplace.
+Our model is a sustainable one - students “graduate” and immediately become teachers, facilitating the training of subsequent students, as well as getting involved in our other activities. This largely peer-led model has allowed us to teach over 100 students in the past couple of years. 
 
-## Three connected spaces
+    After students graduate, we encourage them to remain in our co-working space, where they can build a 
+    portfolio under the guidance of more experienced mentors. We attempt to find projects that have social 
+    impact. Clients are likely to include social enterprises, startups, local authorities and established 
+    businesses. Graduates work freelance, starting at a London Living Wage rate, until they are ready to 
+    start their own business or find employment. As long as they remain in the space, they are expected 
+    to contribute to the learning of others.
 
-**A public learning space** where the general public can come to learn with others in both informal peer-led groups and more formal expert-led classes.
+##Objectives
 
-**A classroom** where students can train to become software developers in a full-time coding bootcamp.
+Now that we have achieved financial sustainability for our organisation, we are ready to start working on extending our model. 
 
-**A co-working space** where bootcamp graduates can gain experience and build a portfolio while working with a selection of startups and digital agencies.
+Our current objective is a huge step-change in the number of people we are able to reach. To achieve this, we are proposing the creation of a “three-tiered” space:
 
-## Peer led
-The coding bootcamp curriculum is based on the one that has been successfully developed at Founders & Coders and is largely peer-led. Support comes from the bootcamp alumni and businesses in the co-working space, who receive subsidised rent in return for their involvement in the bootcamp.
++ A classroom where students can train to become software developers in a full-time coding bootcamp;
++ A co-working space where bootcamp graduates can gain experience and build a portfolio while working with a selection of startups and digital agencies;
++ A public learning space where we can organise informal peer-led learning groups, public events and workshops.
 
-## Staff requirements
-Two full-time staff: A director of learning to run the coding bootcamp and a career advisor to place people into work. Part-time temporary posts for bootcamp alumni at London living wage.
+## How will this work?
 
-## Size
-Co-working for up to 24 people; a classroom for up to 16 people; a public space for up to 24 people. Approximately 300 sq.m. total.
+The requirements for the digital learning hub are broadly as follows:
 
-## Sustainability
-The bootcamp training and open-access learning space is provided for free. Income is from subsidised desk rental and from recuitment fees. A digital learning hub would be expected to become self-supporing within two years of operation and to then operate free of public funding.
+**A suitable physical space**  
+In order to house around 16 full-time bootcamp students and 24 working graduates and mentors, we estimate the minimum space required would be 200 sq m. In addition, we would need access to a shared-use space for running events and workshops for the general public.
 
-## Track record
-The Founders & Coders campus opened in January 2015. It closely follows the model outlined here and is expected to break-even ahead of schedue in 2016.
+**Staff**  
+Because the bulk of the teaching is done by bootcamp graduates in exchange for the education they have received, staffing requirements are low. Only two permanent staff are needed - a director of learning to ensure quality across the bootcamp and public-facing activities, and a careers and recruitment consultant to help place people into work.
+
+**Investment & income**  
+The primary costs of the hub are the cost of the physical space, and the salaries of the Director of Learning and Careers Consultant. A small marketing budget would be needed to promote the public-facing courses, and any ad-hoc work from alumni would be paid at the rate of the London Living Wage. 
+
+The level of investment required would be offset somewhat by income from (subsidised) desk rental from those in the co-working space, and recruitment fees from alumni placed into work.
+
+## Outcomes
+
+Our intention is nothing short of: 
+
++ Finding paid work as software developers for all bootcamp alumni who seek it;
++ Supporting some members of the public who participate in our non-bootcamp classes into paid work;
++ Operating without the need for funding within three years.
