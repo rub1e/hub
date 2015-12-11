@@ -3,12 +3,12 @@
 ## Background
 Founders & Coders CIC is a social enterprise dedicated to providing exceptional training in web development and assistance in finding work, without charging its students (the *FAC Bootcamp*). We believe that access to life-changing education should be free for all—and nowhere is this more true than in the digital sphere. 
 
-Our model is a sustainable one—students *graduate* and immediately become teachers, facilitating the training of subsequent students, as well as getting involved in our other activities. This largely peer-led model has allowed us to teach over 100 students in the past couple of years. 
+Our model is a sustainable one. After students graduate they immediately take on the role of facilitating the training of the next student cohort, while they start to work on commercial projects. This largely peer-led model has allowed us to teach over 100 students in our first two years of operation. 
 
     After students graduate, we encourage them to remain in our co-working space, where they can build a 
     portfolio under the guidance of more experienced mentors. We attempt to find projects that have social 
     impact. Clients are likely to include social enterprises, startups, local authorities and established 
-    businesses. Graduates work freelance, starting at a London Living Wage rate, until they are ready to 
+    businesses. Graduates work freelance, starting at a Living Wage rate, until they are ready to 
     start their own business or find employment. As long as they remain in the space, they are expected 
     to contribute to the learning of others.
 
