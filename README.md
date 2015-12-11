@@ -39,8 +39,8 @@ A learning hub can be run with a variety of income models. Our current space in 
 
 In theory, a learning hub could be funded by fees from students, but this is a model that we have less experience with and for which we would almost certainly require higher staffing levels.
 
-**How we would expect to work**  
-Primarily, our role is to provide oversight of the curriculum and ongoing support for the pegagogy. Where required, we can also recruit a Director or Learning or train somebody into that role. We also have the capacity to take on the management of a  learning hub, especially in its early stages, and to train staff to take on leadership roles.
+**Our role in a partnership**  
+Primarily, our role is to provide oversight of the curriculum and ongoing support for the pegagogy. Where required, we can also recruit a Director or Learning or train somebody into that role. We also have the capacity to take on the management of a  learning hub, especially in its early stages, and to train staff to take on the leadership roles.
 
 ## Outcomes
 
