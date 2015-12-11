@@ -47,7 +47,6 @@ Our goals with a learning hub are to:
 + Provide entry-level open-access courses to the general public, some of whom will go onto join a bootcamp;
 + Operating without the need for external funding within three years.
 
-### Footnote: what students learn
-
-Primarily, our students learn test-driven development using full-stack JavaScript, with skills well-suited to building modern, scalable, real-time web applications. 
+**Footnote: what students learn**  
+Primarily, our students learn test-driven development using full-stack JavaScript and Node.js, with skills well-suited to building modern, scalable, real-time web applications. 
 
