@@ -27,7 +27,7 @@ Our current objective is a huge step-change in the number of people we are able 
 The requirements for a digital learning hub are broadly as follows:
 
 **A suitable physical space**  
-In order to house around 16 full-time bootcamp students and 24 working graduates and mentors, we estimate the minimum space required would be 200 sq m. In addition, we would need access to a shared-use space for running events and workshops for the general public.
+In order to house a typical community of students, alumni and mentors, including around 16 full-time bootcamp students and 24 working graduates and mentors, we estimate the minimum space required would be 200 sq m. In addition,  a shared-use space for running events and workshops for the general public would be needed.
 
 **Staff**  
 Because the bulk of the teaching is done by bootcamp graduates in exchange for the education they have received, staffing requirements are low. Only two permanent staff are likely to be needed—a director of learning to ensure quality across the bootcamp and public-facing activities, and a careers and recruitment consultant to help place people into work.
@@ -37,7 +37,10 @@ The primary costs of the hub are the cost of the physical space, and the salarie
 
 A learning hub can be run with a variety of income models. Our current space in East London generates revenue from a combination of recruitment fees from employers and income from two sister companies that share our premises and both employ our gradutes and contribute to our running costs. But, a hub could also be funded from public sources or from a consortium of employers. It could also operate as part of an accelerator, providing technical talent for resident startups. 
 
-In theory, a learning hub could be funded by fees from students, but this is a model that we are less keen on.
+In theory, a learning hub could be funded by fees from students, but this is a model that we have less experience with and for which we would almost certainly require higher staffing levels.
+
+**How we would expect to work**  
+Primarily, our role is to provide oversight of the curriculum and ongoing support for the pegagogy. Where required, we can also recruit a Director or Learning or train somebody into that role. We also have the capacity to take on the management of a  learning hub, especially in its early stages, and to train staff to take on leadership roles.
 
 ## Outcomes
 
@@ -48,5 +51,5 @@ Our goals with a learning hub are to:
 + Operating without the need for external funding within three years.
 
 **Footnote: what students learn**  
-Primarily, our students learn test-driven development using full-stack JavaScript and Node.js, with skills well-suited to building modern, scalable, real-time web applications. 
+Primarily, our students learn team-based, agile, test-driven development using full-stack JavaScript and Node.js, to build modern, scalable, real-time web applications. 
 
