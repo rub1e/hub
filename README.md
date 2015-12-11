@@ -51,5 +51,5 @@ Our goals with a learning hub are to:
 + Operate without the need for external funding within three years.
 
 **Footnote: what students learn**  
-Primarily, our students learn team-based, agile, test-driven development using full-stack JavaScript and Node.js, to build modern, scalable, real-time web applications. 
+Primarily, our students learn to build full-stack web applications, using a team-based, agile, test-driven approach with JavaScript and Node.js. 
 
