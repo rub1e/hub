@@ -48,7 +48,7 @@ Our goals with a learning hub are to:
 
 + Find paid work as software developers for all bootcamp alumni who seek it;
 + Provide entry-level open-access courses to the general public, some of whom will go onto join a bootcamp;
-+ Operating without the need for external funding within three years.
++ Operate without the need for external funding within three years.
 
 **Footnote: what students learn**  
 Primarily, our students learn team-based, agile, test-driven development using full-stack JavaScript and Node.js, to build modern, scalable, real-time web applications. 
